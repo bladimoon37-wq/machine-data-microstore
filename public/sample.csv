@@ -1,0 +1,5 @@
+machine_id,timestamp,metric,value,unit
+CNC-001,2026-10-16T09:00:00Z,temperature,45.2,C
+CNC-001,2026-10-16T09:01:00Z,temperature,46.1,C
+CNC-002,2026-10-16T09:00:00Z,vibration,2.4,mm/s
+PUMP-001,2026-10-16T09:00:00Z,pressure,4.8,bar

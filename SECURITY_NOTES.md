@@ -1,0 +1,4 @@
+- Local IndexedDB, no application network API calls.
+- React escapes rendered text; exported CSV cells are quoted and spreadsheet-formula prefixes are neutralized.
+- No backups or cloud sync. Do not upload sensitive production data before AIGIS review.
+- Pending: full browser boundary tests, network inspector, adversarial multiline CSV tests, IndexedDB quota/transaction stress, complete conflict reporting, CSP deployment review.
